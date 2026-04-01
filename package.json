@@ -1,0 +1,11 @@
+{
+  "name": "scancode-rules-index",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build-rules": "node build-rules-index.mjs"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}
